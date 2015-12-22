@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#D0C8A8'
+    - '#98A8B0'
+    - '#283058'
+    - '#B09860'
+    - '#C0A068'
     - '#000000'
-    - '#989860'
-    - '#000000'
-    - '#E0D8B8'
-  brandStrength: 1
+  brandStrength: 0.503378
   lightness: 0
-  rhythmicContrast: 0.724099
-  saturation: 0.318693
+  rhythmicContrast: 1
+  saturation: 0.71509
 cta: {}
 layout_spectrum: 1
 name: Texture Maps
