@@ -7,12 +7,12 @@ color:
     - '#C0A068'
     - '#000000'
   brandStrength: 0
-  lightness: 0
-  rhythmicContrast: 1
+  lightness: 1
+  rhythmicContrast: 0
   saturation: 0.71509
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0.569819
 name: Texture Maps
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.166666
+typography_spectrum: 0.38063
