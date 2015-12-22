@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#98A8B0'
-    - '#283058'
-    - '#B09860'
-    - '#C0A068'
+    - '#B8C0B8'
     - '#000000'
-  brandStrength: 0.337837
+    - '#808080'
+    - '#000000'
+    - '#000000'
+  brandStrength: 1
   lightness: 0
   rhythmicContrast: 0.724099
-  saturation: 0.765765
+  saturation: 0.318693
 cta: {}
-layout_spectrum: 0.292792
+layout_spectrum: 0.801801
 name: Texture Maps
 opengraph: {}
 purpose: {}
