@@ -1,6 +1,6 @@
 name: Texture Maps
 favicon: null
-layout_spectrum: 0.351351
+layout_spectrum: 0.80297
 typography_spectrum: 0.38063
 title: Skin up your renders
 cta:
@@ -22,7 +22,7 @@ color:
     - '#B09860'
     - '#C0A068'
     - '#000000'
-  brandStrength: 0
+  brandStrength: 0.125
   lightness: 1
   saturation: 0.71509
   rhythmicContrast: 0
