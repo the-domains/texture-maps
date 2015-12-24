@@ -23,7 +23,7 @@ color:
     - '#C0A068'
     - '#000000'
   brandStrength: 0.125
-  lightness: 1
+  lightness: 0.5
   saturation: 0
   rhythmicContrast: 1
 purpose:
